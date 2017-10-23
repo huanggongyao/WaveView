@@ -5,8 +5,8 @@
       <root url="jar://$PROJECT_DIR$/wavekit/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/wavekit/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/wavekit/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/0339a2213ff84799ca9ce6b39febd1298188cee1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0339a2213ff84799ca9ce6b39febd1298188cee1/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -5,9 +5,9 @@
       <root url="jar://$PROJECT_DIR$/wavekit/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/wavekit/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/wavekit/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/wavekit/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/ef0796e6e7e2bd6308f239d45f62accefb671b43/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ef0796e6e7e2bd6308f239d45f62accefb671b43/output/jars/libs/internal_impl-24.0.0-beta1.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ef0796e6e7e2bd6308f239d45f62accefb671b43/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
